@@ -6,6 +6,8 @@ I analyzed a Microsoft-documented campaign in which attackers took over Microsof
 
 [Read the full case study (PDF)](microsoft-365-account-takeover-case-study.pdf)
 
+[Companion lab: SharePoint visibility design](sharepoint-visibility-design.md)
+
 ## What the evidence supports
 
 - Microsoft’s published timeline showed remote mailbox access and a rule that hid replies by archiving them and marking them as read. The public timeline documents attempted fraud. Whether money changed hands remains unverified.
